@@ -1,6 +1,5 @@
   #WRITE YOUR CODE IN THIS FILE
 def echo(word, times):
-    for i in range(times):
-        print(word)
+    return word*times
 
-print(echo("yo", 2))
+print(echo("echo", 5))
