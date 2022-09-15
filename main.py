@@ -3,4 +3,4 @@ def echo(word, times):
     for i in range(times):
         print(word)
 
-print(echo("hello", 5))
+print(echo("yo", 2))
